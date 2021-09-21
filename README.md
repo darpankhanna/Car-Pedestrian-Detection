@@ -16,12 +16,12 @@ The project aims to detect multiple cars in the video frames from the video give
 * Haar Cascades 
 * Numpy
 
-## How to use:
+## How to use
 * Open the project in Google Colab.
 * Upload all the files from Github to Colab.
 * Hit Run.
 
-## Use cases:
+## Use cases
 * Can be used by self-driving vehicles to detect cars around it.
 * An advanced traffic signal system that uses the number of vehicles to switch lights instead of hardcoded values of the time.
 
