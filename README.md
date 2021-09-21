@@ -20,5 +20,6 @@ Hit Run.
 
 ## Use cases:
 Can be used by self-driving vehicles to detect cars around it.
+
 An advanced traffic signal system that uses the number of vehicles to switch lights instead of hardcoded values of the time.
 
