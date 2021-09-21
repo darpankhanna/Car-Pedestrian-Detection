@@ -11,7 +11,10 @@ This is basically a machine learning based approach where a cascade function is 
 The project aims to detect multiple cars in the video frames from the video given by the user.
 
 ## Technologies used
-Python, OpenCV Haar Cascades and Numpy.
+* Python
+* OpenCV 
+* Haar Cascades 
+* Numpy
 
 ## How to use:
 Open the project in Google Colab.
@@ -19,7 +22,6 @@ Upload all the files from Github to Colab.
 Hit Run.
 
 ## Use cases:
-Can be used by self-driving vehicles to detect cars around it.
-
-An advanced traffic signal system that uses the number of vehicles to switch lights instead of hardcoded values of the time.
+* Can be used by self-driving vehicles to detect cars around it.
+* An advanced traffic signal system that uses the number of vehicles to switch lights instead of hardcoded values of the time.
 
