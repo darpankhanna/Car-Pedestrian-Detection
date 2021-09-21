@@ -17,9 +17,9 @@ The project aims to detect multiple cars in the video frames from the video give
 * Numpy
 
 ## How to use:
-Open the project in Google Colab.
-Upload all the files from Github to Colab.
-Hit Run.
+* Open the project in Google Colab.
+* Upload all the files from Github to Colab.
+* Hit Run.
 
 ## Use cases:
 * Can be used by self-driving vehicles to detect cars around it.
