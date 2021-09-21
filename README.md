@@ -7,5 +7,18 @@ We will implement the same using the Haar Cascade classifier. Haar Cascade class
 
 This is basically a machine learning based approach where a cascade function is trained from a lot of images both positive and negative. Based on the training it is then used to detect the objects in the other images.
 
+## About the project
+The project aims to detect multiple cars in the video frames from the video given by the user.
 
+## Technologies used
+Python, OpenCV Haar Cascades and Numpy.
+
+## How to use:
+Open the project in Google Colab.
+Upload all the files from Github to Colab.
+Hit Run.
+
+## Use cases:
+Can be used by self-driving vehicles to detect cars around it.
+An advanced traffic signal system that uses the number of vehicles to switch lights instead of hardcoded values of the time.
 
